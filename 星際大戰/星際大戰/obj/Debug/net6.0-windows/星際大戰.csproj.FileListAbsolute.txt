@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\星際大戰\星際大戰\bin\Debug\net6.0-windows\星際大戰.exe
+C:\Users\User\Desktop\星際大戰\星際大戰\bin\Debug\net6.0-windows\星際大戰.deps.json
+C:\Users\User\Desktop\星際大戰\星際大戰\bin\Debug\net6.0-windows\星際大戰.runtimeconfig.json
+C:\Users\User\Desktop\星際大戰\星際大戰\bin\Debug\net6.0-windows\星際大戰.dll
+C:\Users\User\Desktop\星際大戰\星際大戰\bin\Debug\net6.0-windows\星際大戰.pdb
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.Form1.resources
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.Properties.Resources.resources
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.csproj.GenerateResource.cache
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.AssemblyInfo.cs
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.dll
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\refint\星際大戰.dll
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.pdb
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\星際大戰.genruntimeconfig.cache
+C:\Users\User\Desktop\星際大戰\星際大戰\obj\Debug\net6.0-windows\ref\星際大戰.dll
